@@ -1,0 +1,20 @@
+14:41:52.243 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+14:41:52.249 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Launch the ABD
+14:42:39.457 [main] INFO  com.testsbd.test.steps.ABDSteps - vBD Unit Configured
+14:44:00.989 [main] ERROR com.testsbd.test.steps.ABDSteps - Screenshot: null_1496983435460. expected [Initializ] but found [Initialize]
+14:44:04.819 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+14:53:00.319 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+14:53:00.319 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Launch the ABD
+14:53:01.918 [main] INFO  com.testsbd.test.steps.ABDSteps - vBD Unit Configured
+14:53:02.385 [main] ERROR com.testsbd.test.steps.ABDSteps - Screenshot: Failed_1496983982373. expected [Initializ] but found [Initialize]
+14:53:02.387 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+14:53:07.545 [main] ERROR com.testsbd.test.steps.ABDSteps - expected [Your flights is closed] but found [Your flight is closed]
+14:58:01.151 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+14:58:01.154 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Launch the ABD
+14:58:02.703 [main] INFO  com.testsbd.test.steps.ABDSteps - vBD Unit Configured
+14:58:03.193 [main] ERROR com.testsbd.test.steps.ABDSteps - Screenshot: Failed_1496984283180. expected [Initializ] but found [Initialize]
+14:58:03.197 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+15:01:23.027 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+15:01:23.032 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Launch the ABD
+15:01:24.621 [main] INFO  com.testsbd.test.steps.ABDSteps - vBD Unit Configured
+15:01:24.844 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed

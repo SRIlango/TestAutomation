@@ -1,0 +1,7 @@
+15:07:15.881 [main] ERROR com.testsbd.test.steps.InitializeTest - Framework Intialized
+15:27:27.554 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Intialized
+15:27:29.327 [main] INFO  com.testsbd.test.steps.ABDSteps - vBD Unit Configured
+15:27:35.876 [main] ERROR com.testsbd.test.steps.ABDSteps - [Ljava.lang.StackTraceElement;@4cd1c1dc
+15:28:25.392 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Intialized
+15:28:26.884 [main] INFO  com.testsbd.test.steps.ABDSteps - vBD Unit Configured
+15:28:32.720 [main] ERROR com.testsbd.test.steps.ABDSteps - [Ljava.lang.StackTraceElement;@659925f4

@@ -1,0 +1,24 @@
+12:22:26.671 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+12:23:07.388 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+12:23:23.247 [main] ERROR com.testsbd.test.steps.ABDSteps - vBD not in Boarding Pass Scan screen expected [true] but found [false]
+12:24:47.888 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+12:24:48.269 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+12:25:04.043 [main] ERROR com.testsbd.test.steps.ABDSteps - vBD not in Boarding Pass Scan screen expected [true] but found [false]
+13:23:51.422 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+13:24:17.383 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+13:24:33.112 [main] ERROR com.testsbd.test.steps.ABDSteps - vBD not in Boarding Pass Scan screen expected [true] but found [false]
+13:29:46.540 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+13:29:46.794 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+13:30:02.432 [main] ERROR com.testsbd.test.steps.ABDSteps - vBD not in Boarding Pass Scan screen expected [true] but found [false]
+13:37:06.798 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+13:37:07.075 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+13:37:22.359 [main] ERROR com.testsbd.test.steps.ABDSteps - vBD not in Boarding Pass Scan screen expected [true] but found [false]
+13:52:27.571 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+13:52:27.818 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+13:52:43.074 [main] ERROR com.testsbd.test.steps.ABDSteps - vBD not in Boarding Pass Scan screen expected [true] but found [false]
+13:56:51.302 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+13:56:51.577 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+13:57:06.763 [main] ERROR com.testsbd.test.steps.ABDSteps - vBD not in Boarding Pass Scan screen expected [true] but found [false]
+14:05:58.441 [main] INFO  com.testsbd.test.steps.InitializeTest - Framework Initialized
+14:06:09.169 [main] INFO  com.testsbd.test.steps.InitializeTest - Scenario Name: Your Flight is Closed
+14:06:24.405 [main] ERROR com.testsbd.test.steps.ABDSteps - vBD not in Boarding Pass Scan screen expected [true] but found [false]
